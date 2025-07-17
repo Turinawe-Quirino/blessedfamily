@@ -286,6 +286,10 @@ footer {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.footer-bottom p {
+    margin-bottom:2rem;
+}
+
 .social-icons {
     display: flex;
     gap: 1rem;
